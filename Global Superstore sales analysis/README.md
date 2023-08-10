@@ -1,4 +1,7 @@
-In this project, we successfully analyzed and visualized a comprehensive dataset from a global store with branches worldwide. The primary objective was to provide stakeholders with an insightful and detailed report on the store's sales transactions. The project encompassed several key steps to achieve this goal:
+In this project, we successfully analyzed and visualized a comprehensive dataset from a global store with branches worldwide. The primary objective was to provide stakeholders with an insightful and detailed report on the store's sales transactions. 
+Video link : 
+
+The project encompassed several key steps to achieve this goal:
 
 Data Cleaning and Preparation:
 We initiated the project by meticulously cleaning and preparing the dataset. Through careful examination, we addressed missing values, standardized data formats, and refined column names, ensuring that the dataset was accurate and coherent.
