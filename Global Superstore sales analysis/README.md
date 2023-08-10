@@ -24,6 +24,5 @@ Interactive Reporting:
 
 To enhance stakeholder engagement and data exploration, we crafted an interactive report. This report seamlessly integrated segmented visuals, shipping analysis, and geographical sales insights, enabling stakeholders to delve deeper into the data and gain actionable insights.
 
-file:///C:/Users/VISHNU%20PRASAD/OneDrive/Pictures/Screenshots/Global%20superstore.png
 
 The culmination of this project resulted in a comprehensive and interactive report that catered to the stakeholders' requirements for detailed sales transaction analysis. By leveraging Power BI's capabilities and employing meticulous data handling, we successfully transformed raw data into meaningful insights, empowering our stakeholders to make well-informed business decisions based on a thorough understanding of sales dynamics across diverse dimensions
