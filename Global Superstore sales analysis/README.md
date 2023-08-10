@@ -1,4 +1,4 @@
-In this project, we successfully analyzed and visualized a comprehensive dataset from a global store with branches worldwide. The primary objective was to provide stakeholders with an insightful and detailed report on the store's sales transactions. 
+In this project, successfully analyzed and visualized a comprehensive dataset from a global store with branches worldwide. The primary objective was to provide stakeholders with an insightful and detailed report on the store's sales transactions. 
 
 Video link : https://drive.google.com/file/d/1wkN13nsSjAoxUXo4ueFpbpV7LB57hqrd/view?usp=sharing
 
