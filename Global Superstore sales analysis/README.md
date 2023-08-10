@@ -17,6 +17,6 @@ Our analysis extended to the geographical dimension, where we generated a compre
 5. Interactive Reporting:
 To enhance stakeholder engagement and data exploration, we crafted an interactive report. This report seamlessly integrated segmented visuals, shipping analysis, and geographical sales insights, enabling stakeholders to delve deeper into the data and gain actionable insights.
 
-![Global superstore](https://github.com/vishnuprasad5/PowerBI_Projects/assets/132830156/1f7abb74-99c3-4f6d-ac1e-8cf477ed46d7)
+![Global superstore analysis](https://github.com/vishnuprasad5/PowerBI_Projects/assets/132830156/45feb6e9-36df-4258-b935-80f451631a3e)
 
 The culmination of this project resulted in a comprehensive and interactive report that catered to the stakeholders' requirements for detailed sales transaction analysis. By leveraging Power BI's capabilities and employing meticulous data handling, we successfully transformed raw data into meaningful insights, empowering our stakeholders to make well-informed business decisions based on a thorough understanding of sales dynamics across diverse dimensions
