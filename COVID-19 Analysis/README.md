@@ -3,17 +3,6 @@ Welcome to the COVID-19 Analysis Power BI project! This Power BI report provides
 
 Video Link : https://drive.google.com/file/d/1k7WBEunOgH-71Hy7tuWUBabJUdBJSl-8/view?usp=sharing
 
-## Table of Contents
-**Introduction**
-
-**Features**
-
-**Findings**
-
-**Visualizations**
-
-**Data Source**
-
 ## Introduction
 The COVID-19 Analysis Power BI project offers a deep dive into global COVID-19 data, revealing insights through various visualizations. This report facilitates the exploration of COVID-19 cases, deaths, testing, and vaccination trends over time and across different geographical locations.
 
