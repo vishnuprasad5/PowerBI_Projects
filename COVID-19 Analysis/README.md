@@ -1,6 +1,8 @@
 # COVID-19 Analysis using Power Bi
 Welcome to the COVID-19 Analysis Power BI project! This Power BI report provides a comprehensive analysis of COVID-19 data using interactive visualizations, including number cards, slicers, maps, line charts, and clustered column charts. This README will guide you through the features, findings, and insights obtained from this Power BI report.
 
+Video Link : https://drive.google.com/file/d/1k7WBEunOgH-71Hy7tuWUBabJUdBJSl-8/view?usp=sharing
+
 ## Table of Contents
 **Introduction**
 
